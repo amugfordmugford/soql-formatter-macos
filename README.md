@@ -3,6 +3,10 @@
 A lightweight macOS app that helps Salesforce users format long SOQL queries quickly and cleanly.  
 Ideal for admins, developers, and analysts who work with large lists of IDs or email addresses.
 
+## Download/Clone
+
+- git clone https://github.com/amugfordmugford/soql-formatter-macos.git
+
 ## Features
 
 - Automatically formats long SOQL `IN` clauses (e.g. email, ID lists)
@@ -65,4 +69,3 @@ MIT License
 **Andrew Mugford**  
 Certified Salesforce Administrator  
 GitHub: [@amugfordmugford](https://github.com/amugfordmugford)
-
