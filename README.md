@@ -8,6 +8,13 @@ Ideal for admins, developers, and analysts who work with large lists of IDs or e
 - git clone https://github.com/amugfordmugford/soql-formatter-macos.git
 - brief video https://youtu.be/hGoYUjisAVo
 
+## Updates-v2
+- Keyboard shortcuts – ⌘F to format, ⌘C to copy query, ⌘N to clear input.
+- History panel – store last 10 formatted queries for quick recall.
+- Syntax highlighting – color-code keywords (SELECT, WHERE) for easier reading.
+- Button to insert ({variable}) into a query to save you from typing it in
+- General UI look and feel improvements.
+
 ## Features
 
 - Automatically formats long SOQL `IN` clauses (e.g. email, ID lists)
