@@ -6,6 +6,7 @@ Ideal for admins, developers, and analysts who work with large lists of IDs or e
 ## Download/Clone
 
 - git clone https://github.com/amugfordmugford/soql-formatter-macos.git
+- brief video https://youtu.be/hGoYUjisAVo
 
 ## Features
 
